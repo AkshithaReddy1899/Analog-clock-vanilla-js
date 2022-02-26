@@ -1,6 +1,6 @@
 # Analog-clock-vanilla-js
 
-Analog colock build with vanilla JavaScript with dark and light mode included
+Analog clock build with vanilla JavaScript with dark and light mode included
 
 # Live 
 
